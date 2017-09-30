@@ -1,2 +1,5 @@
 # Hello-World
-This is a test repository
+This is a repository with no sense.
+
+This looks like fun.
+
